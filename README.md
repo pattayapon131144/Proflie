@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pattayaponsen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pattayaponsen" height="30" width="40" /></a>
-<a href="https://fb.com/pattayapon senaluang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pattayapon senaluang" height="30" width="40" /></a>
+<a href="[https://fb.com/pattayapon senaluang](https://www.facebook.com/ming.zhenkonankan/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pattayapon senaluang" height="30" width="40" /></a>
 <a href="https://instagram.com/ppattayapon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ppattayapon" height="30" width="40" /></a>
 </p>
 
