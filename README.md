@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pattayapon131144&label=Profile%20views&color=0e75b6&style=flat" alt="pattayapon131144" /> </p>
 
-- 🌱 I’m currently learning **Data Engineer**
+- 🌱 I’m currently learning **Data Sci**
 
 - 📫 How to reach me **pattayaponsen@hotmail.com**
 
